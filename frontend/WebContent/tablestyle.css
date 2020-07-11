@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+table {
+	width:400px;
+}
+td{
+	text-align: left;
+}
+th,td,table{
+	border: 1px solid #000;
+}

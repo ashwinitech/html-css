@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+form{
+	width:300px;
+}
+input {
+	width:100%;
+}
+textarea {
+	resize: vertical;
+	max-height: 100px;
+}
+input,textarea {
+	
+}
